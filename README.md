@@ -1,2 +1,3 @@
 # R_exercise
-Revised version R exercise solution (Rmd file) and my original practise (html file) 
+Rmd file: Revised version R exercise solution
+html file: My original solution for R practise 
